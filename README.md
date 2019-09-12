@@ -1,6 +1,7 @@
 Write Batch applications to perform Olympics Data Analysis
 a) Find the total number of medals won by each country in swimming.
-
+b) Find the number of medals that India won year wise.
+c) Find the total number of medals won by each country.
 
 Dataset: -
 The data set consists of the following fields:
